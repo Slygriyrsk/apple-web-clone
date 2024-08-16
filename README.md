@@ -208,7 +208,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Acknowledgments 🙌
 
 - **[React](https://reactjs.org/)**: For its efficient and powerful UI development capabilities.
-- **GSAP**: For its advanced animation capabilities.
+- **[GSAP](https://gsap.com/)**: For its advanced animation capabilities.
 - **[Three.js](https://threejs.org/)**: For enabling interactive 3D graphics.
 - **[Tailwind CSS](https://tailwindcss.com/)**: For its utility-first approach to CSS design.
 - **[Sentry](https://sentry.io/)**: For providing robust error tracking and performance monitoring.
