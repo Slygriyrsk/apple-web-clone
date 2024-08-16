@@ -199,7 +199,7 @@ Here's a simple example of a responsive Navbar using Tailwind CSS:
 ## Contributing 🤝
 
 
-We welcome contributions from the community! Feel free to [open issues](https://github.com/yourusername/apple-website-clone/issues), [submit pull requests](https://github.com/yourusername/apple-website-clone/pulls), or offer feedback. Your input is invaluable and appreciated.
+We welcome contributions from the community! Feel free to [open issues](https://github.com/Slygriyrsk/apple-web-clone/issues), [submit pull requests](https://github.com/Slygriyrsk/apple-web-clone/pulls), or offer feedback. Your input is invaluable and appreciated.
 
 ## License 📜
 
